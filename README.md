@@ -1,4 +1,4 @@
-# Hey! :slightly_smiling_face: I am Divya Khera
+# Hey! :wave: I am Divya Khera
 # 💫 About Me:
 I'm pursuing MCA from University of Allahabad.<br>Currently learning Android Studio.<br>Happy to contribute in open source project.<br>Feel free to get in touch with me- divyakhera29@outlook.com
 
